@@ -1,1 +1,1 @@
-# Singolo
+# https://github.com/OlegDragun/Singolo.git
